@@ -1,0 +1,12 @@
+name: ph_multivarias_sigmasdesconocidas
+title: ph_multivarias_sigmasdesconocidas
+username:
+account: edwincaicedo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 982972
+bundleId: 2186408
+url: https://edwincaicedo.shinyapps.io/ph_multivarias_sigmasdesconocidas/
+when: 1561747833.12326
+asMultiple: FALSE
+asStatic: FALSE

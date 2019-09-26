@@ -1,0 +1,12 @@
+name: pruebamultivariadasc
+title: pruebamultivariadasc
+username:
+account: satorozu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1017349
+bundleId: 2211906
+url: https://satorozu.shinyapps.io/pruebamultivariadasc/
+when: 1562615586.57628
+asMultiple: FALSE
+asStatic: FALSE

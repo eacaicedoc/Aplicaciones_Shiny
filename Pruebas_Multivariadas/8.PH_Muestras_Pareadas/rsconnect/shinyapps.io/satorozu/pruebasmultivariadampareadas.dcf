@@ -1,0 +1,12 @@
+name: pruebasmultivariadampareadas
+title: pruebasmultivariadampareadas
+username:
+account: satorozu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1017394
+bundleId: 2212009
+url: https://satorozu.shinyapps.io/pruebasmultivariadampareadas/
+when: 1562617316.3628
+asMultiple: FALSE
+asStatic: FALSE

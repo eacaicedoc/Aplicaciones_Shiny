@@ -1,0 +1,12 @@
+name: ph_mutivariadas_sigmadesconocida
+title: ph_mutivariadas_sigmadesconocida
+username:
+account: edwincaicedo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 982111
+bundleId: 2155698
+url: https://edwincaicedo.shinyapps.io/ph_mutivariadas_sigmadesconocida/
+when: 1560620368.44597
+asMultiple: FALSE
+asStatic: FALSE

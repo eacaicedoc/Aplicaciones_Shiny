@@ -1,0 +1,12 @@
+name: ph_multivariadas_sigmaconocida
+title: ph_multivariadas_sigmaconocida
+username:
+account: edwincaicedo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 982115
+bundleId: 2185888
+url: https://edwincaicedo.shinyapps.io/ph_multivariadas_sigmaconocida/
+when: 1561732366.51792
+asMultiple: FALSE
+asStatic: FALSE
